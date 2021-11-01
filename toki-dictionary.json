@@ -1,117 +1,146 @@
 {
   "a": [
     {
-      "interj": "ah, ha, uh, oh, ooh, aw, well (emotion word)"
+      "pos": "interj",
+      "definition": "ah, ha, uh, oh, ooh, aw, well (emotion word)"
     }
   ],
   "akesi": [
     {
-      "n": "non-cute animal, reptile, amphibian"
+      "pos": "n",
+      "definition": "non-cute animal, reptile, amphibian"
     }
   ],
   "ala": [
     {
-      "mod": "no, not, none, un-"
+      "pos": "mod",
+      "definition": "no, not, none, un-"
     },
     {
-      "n": "nothing, negation, zero"
+      "pos": "n",
+      "definition": "nothing, negation, zero"
     },
     {
-      "interj": "no!"
+      "pos": "interj",
+      "definition": "no!"
     }
   ],
   "alasa": [
     {
-      "vt": "gather, hunt"
+      "pos": "vt",
+      "definition": "gather, hunt"
     }
   ],
   "ale, ali": [
     {
-      "n": "everything, anything, life, the universe"
+      "pos": "n",
+      "definition": "everything, anything, life, the universe"
     },
     {
-      "mod": "all, every, complete, whole"
+      "pos": "mod",
+      "definition": "all, every, complete, whole"
     }
   ],
   "anpa": [
     {
-      "n": "bottom, lower part, under, below, floor, beneath"
+      "pos": "n",
+      "definition": "bottom, lower part, under, below, floor, beneath"
     },
     {
-      "mod": "low, lower, bottom, down"
+      "pos": "mod",
+      "definition": "low, lower, bottom, down"
     }
   ],
   "ante": [
     {
-      "n": "difference"
+      "pos": "n",
+      "definition": "difference"
     },
     {
-      "mod": "different"
+      "pos": "mod",
+      "definition": "different"
     },
     {
-      "conj": "otherwise, or else"
+      "pos": "conj",
+      "definition": "otherwise, or else"
     },
     {
-      "vt": "change, alter, modify"
+      "pos": "vt",
+      "definition": "change, alter, modify"
     }
   ],
   "anu": [
     {
-      "conj": "or"
+      "pos": "conj",
+      "definition": "or"
     }
   ],
   "awen": [
     {
-      "vi": "stay, wait, remain"
+      "pos": "vi",
+      "definition": "stay, wait, remain"
     },
     {
-      "vt": "keep"
+      "pos": "vt",
+      "definition": "keep"
     },
     {
-      "mod": "remaining, stationary, permanent, sedentary"
+      "pos": "mod",
+      "definition": "remaining, stationary, permanent, sedentary"
     }
   ],
   "e": [
     {
-      "sep": "(introduces a direct object)"
+      "pos": "sep",
+      "definition": "(introduces a direct object)"
     }
   ],
   "en": [
     {
-      "conj": "and (used to coordinate head nouns)"
+      "pos": "conj",
+      "definition": "and (used to coordinate head nouns)"
     }
   ],
   "esun": [
     {
-      "n": "market, shop"
+      "pos": "n",
+      "definition": "market, shop"
     }
   ],
   "ijo": [
     {
-      "n": "thing, something, stuff, anything, object"
+      "pos": "n",
+      "definition": "thing, something, stuff, anything, object"
     },
     {
-      "mod": "of something"
+      "pos": "mod",
+      "definition": "of something"
     },
     {
-      "vt": "objectify"
+      "pos": "vt",
+      "definition": "objectify"
     }
   ],
   "ike": [
     {
-      "mod": "bad, negative, wrong, evil, overly complex, (figuratively) unhealthy"
+      "pos": "mod",
+      "definition": "bad, negative, wrong, evil, overly complex, (figuratively) unhealthy"
     },
     {
-      "interj": "oh dear! woe! alas!"
+      "pos": "interj",
+      "definition": "oh dear! woe! alas!"
     },
     {
-      "n": "negativity, badness, evil"
+      "pos": "n",
+      "definition": "negativity, badness, evil"
     },
     {
-      "vt": "to make bad, to worsen, to have a negative effect upon"
+      "pos": "vt",
+      "definition": "to make bad, to worsen, to have a negative effect upon"
     },
     {
-      "vi": "to be bad, to suck"
+      "pos": "vi",
+      "definition": "to be bad, to suck"
     },
     {
       "extra": "[sounds like icky]"
@@ -119,15 +148,18 @@
   ],
   "ilo": [
     {
-      "n": "tool, device, machine, thing used for a specific purpose"
+      "pos": "n",
+      "definition": "tool, device, machine, thing used for a specific purpose"
     }
   ],
   "insa": [
     {
-      "n": "inside, inner world, centre, stomach"
+      "pos": "n",
+      "definition": "inside, inner world, centre, stomach"
     },
     {
-      "mod": "inner, internal"
+      "pos": "mod",
+      "definition": "inner, internal"
     },
     {
       "extra": "[inside]"
@@ -135,16 +167,20 @@
   ],
   "jaki": [
     {
-      "mod": "dirty, gross, filthy"
+      "pos": "mod",
+      "definition": "dirty, gross, filthy"
     },
     {
-      "n": "dirt, pollution, garbage, filth"
+      "pos": "n",
+      "definition": "dirt, pollution, garbage, filth"
     },
     {
-      "vt": "pollute, dirty"
+      "pos": "vt",
+      "definition": "pollute, dirty"
     },
     {
-      "interj": "ew! yuck!"
+      "pos": "interj",
+      "definition": "ew! yuck!"
     },
     {
       "extra": "[yucky]"
@@ -152,18 +188,22 @@
   ],
   "jan": [
     {
-      "n": "person, people, human, being, somebody, anybody"
+      "pos": "n",
+      "definition": "person, people, human, being, somebody, anybody"
     },
     {
-      "mod": "human, somebody's, personal, of people"
+      "pos": "mod",
+      "definition": "human, somebody's, personal, of people"
     },
     {
-      "vt": "personify, humanize, personalize"
+      "pos": "vt",
+      "definition": "personify, humanize, personalize"
     }
   ],
   "jelo": [
     {
-      "mod": "yellow, light green"
+      "pos": "mod",
+      "definition": "yellow, light green"
     },
     {
       "extra": "[yellow]"
@@ -171,43 +211,54 @@
   ],
   "jo": [
     {
-      "vt": "have, contain"
+      "pos": "vt",
+      "definition": "have, contain"
     },
     {
-      "n": "having"
+      "pos": "n",
+      "definition": "having"
     },
     {
-      "kama": "receive, get, take, obtain"
+      "pos": "kama",
+      "definition": "receive, get, take, obtain"
     }
   ],
   "kala": [
     {
-      "n": "fish, sea creature"
+      "pos": "n",
+      "definition": "fish, sea creature"
     }
   ],
   "kalama": [
     {
-      "n": "sound, noise, voice"
+      "pos": "n",
+      "definition": "sound, noise, voice"
     },
     {
-      "vi": "make noise"
+      "pos": "vi",
+      "definition": "make noise"
     },
     {
-      "vt": "sound, ring, play (an instrument)"
+      "pos": "vt",
+      "definition": "sound, ring, play (an instrument)"
     }
   ],
   "kama": [
     {
-      "vi": "come, become, arrive, happen, pursue actions to arrive to (a certain state), manage to, start to"
+      "pos": "vi",
+      "definition": "come, become, arrive, happen, pursue actions to arrive to (a certain state), manage to, start to"
     },
     {
-      "n": "event, happening, chance, arrival, beginning"
+      "pos": "n",
+      "definition": "event, happening, chance, arrival, beginning"
     },
     {
-      "mod": "coming, future"
+      "pos": "mod",
+      "definition": "coming, future"
     },
     {
-      "vt": "bring about, summon"
+      "pos": "vt",
+      "definition": "bring about, summon"
     },
     {
       "extra": "[come up]"
@@ -215,39 +266,48 @@
   ],
   "kasi": [
     {
-      "n": "plant, leaf, herb, tree, wood"
+      "pos": "n",
+      "definition": "plant, leaf, herb, tree, wood"
     }
   ],
   "ken": [
     {
-      "vi": "can, is able to, is allowed to, may, is possible"
+      "pos": "vi",
+      "definition": "can, is able to, is allowed to, may, is possible"
     },
     {
-      "n": "possibility, ability, power to do things, permission"
+      "pos": "n",
+      "definition": "possibility, ability, power to do things, permission"
     },
     {
-      "vt": "make possible, enable, allow, permit"
+      "pos": "vt",
+      "definition": "make possible, enable, allow, permit"
     },
     {
-      "cont": "it is possible that"
+      "pos": "cont",
+      "definition": "it is possible that"
     }
   ],
   "kepeken": [
     {
-      "vt": "use"
+      "pos": "vt",
+      "definition": "use"
     },
     {
-      "prep": "with"
+      "pos": "prep",
+      "definition": "with"
     }
   ],
   "kili": [
     {
-      "n": "fruit, pulpy vegetable, mushroom"
+      "pos": "n",
+      "definition": "fruit, pulpy vegetable, mushroom"
     }
   ],
   "kin": [
     {
-      "mod": "also, too, even, indeed (emphasizes the word(s) before it)"
+      "pos": "mod",
+      "definition": "also, too, even, indeed (emphasizes the word(s) before it)"
     }
   ],
   "kipisi": [
@@ -257,147 +317,182 @@
   ],
   "kiwen": [
     {
-      "mod": "hard, solid, stone-like, made of stone or metal"
+      "pos": "mod",
+      "definition": "hard, solid, stone-like, made of stone or metal"
     },
     {
-      "n": "hard thing, rock, stone, metal, mineral, clay"
+      "pos": "n",
+      "definition": "hard thing, rock, stone, metal, mineral, clay"
     }
   ],
   "ko": [
     {
-      "n": "semi-solid or squishy substance, e.g. paste, powder, gum"
+      "pos": "n",
+      "definition": "semi-solid or squishy substance, e.g. paste, powder, gum"
     }
   ],
   "kon": [
     {
-      "n": "air, wind, smell, soul"
+      "pos": "n",
+      "definition": "air, wind, smell, soul"
     },
     {
-      "mod": "air-like, ethereal, gaseous"
+      "pos": "mod",
+      "definition": "air-like, ethereal, gaseous"
     }
   ],
   "kule": [
     {
-      "n": "colour, paint"
+      "pos": "n",
+      "definition": "colour, paint"
     },
     {
-      "mod": "colourful"
+      "pos": "mod",
+      "definition": "colourful"
     },
     {
-      "vt": "colour, paint"
+      "pos": "vt",
+      "definition": "colour, paint"
     }
   ],
   "kulupu": [
     {
-      "n": "group, community, society, company, people"
+      "pos": "n",
+      "definition": "group, community, society, company, people"
     },
     {
-      "mod": "communal, shared, public, of the society"
+      "pos": "mod",
+      "definition": "communal, shared, public, of the society"
     }
   ],
   "kute": [
     {
-      "vt": "listen, hear"
+      "pos": "vt",
+      "definition": "listen, hear"
     },
     {
-      "mod": "auditory, hearing"
+      "pos": "mod",
+      "definition": "auditory, hearing"
     }
   ],
   "la": [
     {
-      "sep": "(between adverb or phrase of context and sentence)"
+      "pos": "sep",
+      "definition": "(between adverb or phrase of context and sentence)"
     }
   ],
   "lape": [
     {
-      "n": "n, vi sleep, rest"
+      "pos": "n",
+      "definition": "n, vi sleep, rest"
     },
     {
-      "mod": "sleeping, of sleep"
+      "pos": "mod",
+      "definition": "sleeping, of sleep"
     }
   ],
   "laso": [
     {
-      "mod": "blue, blue-green"
+      "pos": "mod",
+      "definition": "blue, blue-green"
     }
   ],
   "lawa": [
     {
-      "n": "head, mind"
+      "pos": "n",
+      "definition": "head, mind"
     },
     {
-      "mod": "main, leading, in charge"
+      "pos": "mod",
+      "definition": "main, leading, in charge"
     },
     {
-      "vt": "lead, control, rule, steer"
+      "pos": "vt",
+      "definition": "lead, control, rule, steer"
     }
   ],
   "len": [
     {
-      "n": "clothing, cloth, fabric"
+      "pos": "n",
+      "definition": "clothing, cloth, fabric"
     }
   ],
   "lete": [
     {
-      "n": "cold"
+      "pos": "n",
+      "definition": "cold"
     },
     {
-      "mod": "cold, uncooked"
+      "pos": "mod",
+      "definition": "cold, uncooked"
     },
     {
-      "vt": "cool down, chill"
+      "pos": "vt",
+      "definition": "cool down, chill"
     }
   ],
   "li": [
     {
-      "sep": "\\\"(between any subject except mi and sina and its verb\": null, \" also used to introduce a new verb for the same subject)\\\""
+      "pos": "sep",
+      "definition": "\\\"(between any subject except mi and sina and its verb\": null, \" also used to introduce a new verb for the same subject)\\\""
     }
   ],
   "lili": [
     {
-      "mod": "small, little, young, a bit, short, few, less"
+      "pos": "mod",
+      "definition": "small, little, young, a bit, short, few, less"
     },
     {
-      "vt": "reduce, shorten, shrink, lessen"
+      "pos": "vt",
+      "definition": "reduce, shorten, shrink, lessen"
     }
   ],
   "linja": [
     {
-      "n": "long, very thin, floppy thing, e.g. string, rope, hair, thread, cord, chain"
+      "pos": "n",
+      "definition": "long, very thin, floppy thing, e.g. string, rope, hair, thread, cord, chain"
     }
   ],
   "lipu": [
     {
-      "n": "flat and bendable thing, e.g. paper, card, ticket"
+      "pos": "n",
+      "definition": "flat and bendable thing, e.g. paper, card, ticket"
     }
   ],
   "loje": [
     {
-      "mod": "red"
+      "pos": "mod",
+      "definition": "red"
     }
   ],
   "lon": [
     {
-      "prep": "be (located) in/at/on"
+      "pos": "prep",
+      "definition": "be (located) in/at/on"
     },
     {
-      "vi": "be there, be present, be real/true, exist, be awake"
+      "pos": "vi",
+      "definition": "be there, be present, be real/true, exist, be awake"
     }
   ],
   "luka": [
     {
-      "n": "hand, arm"
+      "pos": "n",
+      "definition": "hand, arm"
     }
   ],
   "lukin": [
     {
-      "vt": "see, look at, watch, read"
+      "pos": "vt",
+      "definition": "see, look at, watch, read"
     },
     {
-      "vi": "look, watch out, pay attention"
+      "pos": "vi",
+      "definition": "look, watch out, pay attention"
     },
     {
-      "mod": "visual(ly)"
+      "pos": "mod",
+      "definition": "visual(ly)"
     },
     {
       "extra": "[looking]"
@@ -405,7 +500,8 @@
   ],
   "lupa": [
     {
-      "n": "hole, orifice, window, door"
+      "pos": "n",
+      "definition": "hole, orifice, window, door"
     },
     {
       "extra": "[sounds like loop]"
@@ -413,15 +509,18 @@
   ],
   "ma": [
     {
-      "n": "land, earth, country, (outdoor) area"
+      "pos": "n",
+      "definition": "land, earth, country, (outdoor) area"
     }
   ],
   "mama": [
     {
-      "n": "parent, mother, father"
+      "pos": "n",
+      "definition": "parent, mother, father"
     },
     {
-      "mod": "of the parent, parental, maternal, fatherly"
+      "pos": "mod",
+      "definition": "of the parent, parental, maternal, fatherly"
     },
     {
       "extra": "[sounds like momma]"
@@ -429,7 +528,8 @@
   ],
   "mani": [
     {
-      "n": "money, material wealth, currency, dollar, capital"
+      "pos": "n",
+      "definition": "money, material wealth, currency, dollar, capital"
     },
     {
       "extra": "[money]"
@@ -437,10 +537,12 @@
   ],
   "meli": [
     {
-      "n": "woman, female, girl, wife, girlfriend"
+      "pos": "n",
+      "definition": "woman, female, girl, wife, girlfriend"
     },
     {
-      "mod": "female, feminine, womanly"
+      "pos": "mod",
+      "definition": "female, feminine, womanly"
     },
     {
       "extra": "[Mary]"
@@ -448,10 +550,12 @@
   ],
   "mi": [
     {
-      "n": "I, we"
+      "pos": "n",
+      "definition": "I, we"
     },
     {
-      "mod": "my, our"
+      "pos": "mod",
+      "definition": "my, our"
     },
     {
       "extra": "[me]"
@@ -459,45 +563,56 @@
   ],
   "mije": [
     {
-      "n": "man, male, boy, husband, boyfriend"
+      "pos": "n",
+      "definition": "man, male, boy, husband, boyfriend"
     },
     {
-      "mod": "male, masculine, manly"
+      "pos": "mod",
+      "definition": "male, masculine, manly"
     }
   ],
   "moku": [
     {
-      "n": "food, meal"
+      "pos": "n",
+      "definition": "food, meal"
     },
     {
-      "vt": "eat, drink, swallow, ingest, consume"
+      "pos": "vt",
+      "definition": "eat, drink, swallow, ingest, consume"
     }
   ],
   "moli": [
     {
-      "n": "death"
+      "pos": "n",
+      "definition": "death"
     },
     {
-      "vi": "die, be dead"
+      "pos": "vi",
+      "definition": "die, be dead"
     },
     {
-      "vt": "kill"
+      "pos": "vt",
+      "definition": "kill"
     },
     {
-      "mod": "dead, deadly, fatal"
+      "pos": "mod",
+      "definition": "dead, deadly, fatal"
     }
   ],
   "monsi": [
     {
-      "n": "back, rear end, butt, behind"
+      "pos": "n",
+      "definition": "back, rear end, butt, behind"
     },
     {
-      "mod": "back, rear"
+      "pos": "mod",
+      "definition": "back, rear"
     }
   ],
   "mu": [
     {
-      "interj": "woof! meow! moo! etc. (cute animal noise)"
+      "pos": "interj",
+      "definition": "woof! meow! moo! etc. (cute animal noise)"
     },
     {
       "extra": "[moo]"
@@ -505,10 +620,12 @@
   ],
   "mun": [
     {
-      "n": "moon"
+      "pos": "n",
+      "definition": "moon"
     },
     {
-      "mod": "lunar"
+      "pos": "mod",
+      "definition": "lunar"
     },
     {
       "extra": "[moon]"
@@ -516,27 +633,34 @@
   ],
   "musi": [
     {
-      "n": "fun, playing, game, recreation, art, entertainment"
+      "pos": "n",
+      "definition": "fun, playing, game, recreation, art, entertainment"
     },
     {
-      "mod": "artful, fun, recreational"
+      "pos": "mod",
+      "definition": "artful, fun, recreational"
     },
     {
-      "vi": "play, have fun"
+      "pos": "vi",
+      "definition": "play, have fun"
     },
     {
-      "vt": "amuse, entertain"
+      "pos": "vt",
+      "definition": "amuse, entertain"
     }
   ],
   "mute": [
     {
-      "mod": "many, very, much, several, a lot, abundant, numerous, more"
+      "pos": "mod",
+      "definition": "many, very, much, several, a lot, abundant, numerous, more"
     },
     {
-      "n": "amount, quantity"
+      "pos": "n",
+      "definition": "amount, quantity"
     },
     {
-      "vt": "make many or much"
+      "pos": "vt",
+      "definition": "make many or much"
     },
     {
       "extra": "[multi]"
@@ -544,18 +668,22 @@
   ],
   "namako": [
     {
-      "n": "food additive, accessory, something extra"
+      "pos": "n",
+      "definition": "food additive, accessory, something extra"
     },
     {
-      "vt": "season, embellish, stimulate"
+      "pos": "vt",
+      "definition": "season, embellish, stimulate"
     }
   ],
   "nanpa": [
     {
-      "n": "number"
+      "pos": "n",
+      "definition": "number"
     },
     {
-      "oth": "-th (ordinal numbers)"
+      "pos": "oth",
+      "definition": "-th (ordinal numbers)"
     },
     {
       "extra": "[number]"
@@ -563,48 +691,58 @@
   ],
   "nasa": [
     {
-      "mod": "silly, crazy, foolish, drunk, strange, stupid, weird"
+      "pos": "mod",
+      "definition": "silly, crazy, foolish, drunk, strange, stupid, weird"
     },
     {
-      "vt": "drive crazy, make weird"
+      "pos": "vt",
+      "definition": "drive crazy, make weird"
     }
   ],
   "nasin": [
     {
-      "n": "way, manner, custom, road, path, doctrine, system, method"
+      "pos": "n",
+      "definition": "way, manner, custom, road, path, doctrine, system, method"
     }
   ],
   "nena": [
     {
-      "n": "bump, nose, hill, mountain, button"
+      "pos": "n",
+      "definition": "bump, nose, hill, mountain, button"
     }
   ],
   "ni": [
     {
-      "mod": "this, that"
+      "pos": "mod",
+      "definition": "this, that"
     }
   ],
   "nimi": [
     {
-      "n": "word, name"
+      "pos": "n",
+      "definition": "word, name"
     }
   ],
   "noka": [
     {
-      "n": "leg, foot"
+      "pos": "n",
+      "definition": "leg, foot"
     }
   ],
   "o": [
     {
-      "sep": "O (vocative or imperative)"
+      "pos": "sep",
+      "definition": "O (vocative or imperative)"
     },
     {
-      "interj": "hey! (calling somebody's attention)"
+      "pos": "interj",
+      "definition": "hey! (calling somebody's attention)"
     }
   ],
   "oko": [
     {
-      "n": "eye"
+      "pos": "n",
+      "definition": "eye"
     },
     {
       "extra": "[similar to oculist]"
@@ -612,88 +750,110 @@
   ],
   "olin": [
     {
-      "n": "love"
+      "pos": "n",
+      "definition": "love"
     },
     {
-      "mod": "love"
+      "pos": "mod",
+      "definition": "love"
     },
     {
-      "vt": "to love (a person)"
+      "pos": "vt",
+      "definition": "to love (a person)"
     }
   ],
   "ona": [
     {
-      "n": "she, he, it, they"
+      "pos": "n",
+      "definition": "she, he, it, they"
     },
     {
-      "mod": "her, his, its, their"
+      "pos": "mod",
+      "definition": "her, his, its, their"
     }
   ],
   "open": [
     {
-      "vt": "open, turn on"
+      "pos": "vt",
+      "definition": "open, turn on"
     }
   ],
   "pakala": [
     {
-      "n": "blunder, accident, mistake, destruction, damage, breaking"
+      "pos": "n",
+      "definition": "blunder, accident, mistake, destruction, damage, breaking"
     },
     {
-      "vt": "screw up, fuck up, botch, ruin, break, hurt, injure, damage, spoil, ruin"
+      "pos": "vt",
+      "definition": "screw up, fuck up, botch, ruin, break, hurt, injure, damage, spoil, ruin"
     },
     {
-      "vi": "screw up, fall apart, break"
+      "pos": "vi",
+      "definition": "screw up, fall apart, break"
     },
     {
-      "interj": "damn! fuck!"
+      "pos": "interj",
+      "definition": "damn! fuck!"
     }
   ],
   "pali": [
     {
-      "n": "activity, work, deed, project"
+      "pos": "n",
+      "definition": "activity, work, deed, project"
     },
     {
-      "mod": "active, work-related, operating, working"
+      "pos": "mod",
+      "definition": "active, work-related, operating, working"
     },
     {
-      "vt": "do, make, build, create"
+      "pos": "vt",
+      "definition": "do, make, build, create"
     },
     {
-      "vi": "act, work, function"
+      "pos": "vi",
+      "definition": "act, work, function"
     }
   ],
   "palisa": [
     {
-      "n": "long, mostly hard object, e.g. rod, stick, branch"
+      "pos": "n",
+      "definition": "long, mostly hard object, e.g. rod, stick, branch"
     }
   ],
   "pan": [
     {
-      "n": "grain, cereal"
+      "pos": "n",
+      "definition": "grain, cereal"
     }
   ],
   "pana": [
     {
-      "vt": "give, put, send, place, release, emit, cause"
+      "pos": "vt",
+      "definition": "give, put, send, place, release, emit, cause"
     },
     {
-      "n": "giving, transfer, exchange"
+      "pos": "n",
+      "definition": "giving, transfer, exchange"
     }
   ],
   "pi": [
     {
-      "sep": "of, belonging to"
+      "pos": "sep",
+      "definition": "of, belonging to"
     }
   ],
   "pilin": [
     {
-      "n": "feelings, emotion, heart"
+      "pos": "n",
+      "definition": "feelings, emotion, heart"
     },
     {
-      "vi": "feel"
+      "pos": "vi",
+      "definition": "feel"
     },
     {
-      "vt": "feel, think, sense, touch"
+      "pos": "vt",
+      "definition": "feel, think, sense, touch"
     },
     {
       "extra": "[feeling]"
@@ -701,45 +861,56 @@
   ],
   "pimeja": [
     {
-      "mod": "black, dark"
+      "pos": "mod",
+      "definition": "black, dark"
     },
     {
-      "n": "darkness, shadows"
+      "pos": "n",
+      "definition": "darkness, shadows"
     },
     {
-      "vt": "darken"
+      "pos": "vt",
+      "definition": "darken"
     }
   ],
   "pini": [
     {
-      "n": "end, tip"
+      "pos": "n",
+      "definition": "end, tip"
     },
     {
-      "mod": "completed, finished, past, done, ago"
+      "pos": "mod",
+      "definition": "completed, finished, past, done, ago"
     },
     {
-      "vt": "finish, close, end, turn off"
+      "pos": "vt",
+      "definition": "finish, close, end, turn off"
     }
   ],
   "pipi": [
     {
-      "n": "bug, insect, spider"
+      "pos": "n",
+      "definition": "bug, insect, spider"
     }
   ],
   "poka": [
     {
-      "n": "side, hip, next to"
+      "pos": "n",
+      "definition": "side, hip, next to"
     },
     {
-      "prep": "in the accompaniment of, with"
+      "pos": "prep",
+      "definition": "in the accompaniment of, with"
     },
     {
-      "mod": "neighbouring"
+      "pos": "mod",
+      "definition": "neighbouring"
     }
   ],
   "poki": [
     {
-      "n": "container, box, bowl, cup, glass"
+      "pos": "n",
+      "definition": "container, box, bowl, cup, glass"
     },
     {
       "extra": "[box]"
@@ -747,16 +918,20 @@
   ],
   "pona": [
     {
-      "n": "good, simplicity, positivity"
+      "pos": "n",
+      "definition": "good, simplicity, positivity"
     },
     {
-      "mod": "good, simple, positive, nice, correct, right"
+      "pos": "mod",
+      "definition": "good, simple, positive, nice, correct, right"
     },
     {
-      "interj": "great! good! thanks! OK! cool! yay!"
+      "pos": "interj",
+      "definition": "great! good! thanks! OK! cool! yay!"
     },
     {
-      "vt": "improve, fix, repair, make good"
+      "pos": "vt",
+      "definition": "improve, fix, repair, make good"
     },
     {
       "extra": "[bonam]"
@@ -769,132 +944,164 @@
   ],
   "sama": [
     {
-      "mod": "same, similar, equal, of equal status or position"
+      "pos": "mod",
+      "definition": "same, similar, equal, of equal status or position"
     },
     {
-      "prep": "preplike, as, seem"
+      "pos": "prep",
+      "definition": "preplike, as, seem"
     }
   ],
   "seli": [
     {
-      "n": "fire, warmth, heat"
+      "pos": "n",
+      "definition": "fire, warmth, heat"
     },
     {
-      "mod": "hot, warm, cooked"
+      "pos": "mod",
+      "definition": "hot, warm, cooked"
     },
     {
-      "vt": "heat, warm up, cook"
+      "pos": "vt",
+      "definition": "heat, warm up, cook"
     }
   ],
   "selo": [
     {
-      "n": "outside, surface, skin, shell, bark, shape, peel"
+      "pos": "n",
+      "definition": "outside, surface, skin, shell, bark, shape, peel"
     }
   ],
   "seme": [
     {
-      "oth": "what, which, wh- (question word)"
+      "pos": "oth",
+      "definition": "what, which, wh- (question word)"
     }
   ],
   "sewi": [
     {
-      "n": "high, up, above, top, over, on"
+      "pos": "n",
+      "definition": "high, up, above, top, over, on"
     },
     {
-      "mod": "superior, elevated, religious, formal"
+      "pos": "mod",
+      "definition": "superior, elevated, religious, formal"
     }
   ],
   "sijelo": [
     {
-      "n": "body, physical state"
+      "pos": "n",
+      "definition": "body, physical state"
     }
   ],
   "sike": [
     {
-      "n": "circle, wheel, sphere, ball, cycle"
+      "pos": "n",
+      "definition": "circle, wheel, sphere, ball, cycle"
     },
     {
-      "mod": "round, cyclical"
+      "pos": "mod",
+      "definition": "round, cyclical"
     }
   ],
   "sin": [
     {
-      "mod": "new, fresh, another, more"
+      "pos": "mod",
+      "definition": "new, fresh, another, more"
     },
     {
-      "vt": "renew, renovate, freshen"
+      "pos": "vt",
+      "definition": "renew, renovate, freshen"
     }
   ],
   "sina": [
     {
-      "n": "you"
+      "pos": "n",
+      "definition": "you"
     },
     {
-      "mod": "your"
+      "pos": "mod",
+      "definition": "your"
     }
   ],
   "sinpin": [
     {
-      "n": "front, chest, torso, face, wall"
+      "pos": "n",
+      "definition": "front, chest, torso, face, wall"
     }
   ],
   "sitelen": [
     {
-      "n": "picture, image"
+      "pos": "n",
+      "definition": "picture, image"
     },
     {
-      "vt": "draw, write"
+      "pos": "vt",
+      "definition": "draw, write"
     }
   ],
   "sona": [
     {
-      "n": "knowledge, wisdom, intelligence, understanding"
+      "pos": "n",
+      "definition": "knowledge, wisdom, intelligence, understanding"
     },
     {
-      "vt": "know, understand, know how to"
+      "pos": "vt",
+      "definition": "know, understand, know how to"
     },
     {
-      "vi": "know, understand"
+      "pos": "vi",
+      "definition": "know, understand"
     },
     {
-      "kama": "learn, study"
+      "pos": "kama",
+      "definition": "learn, study"
     }
   ],
   "soweli": [
     {
-      "n": "animal, especially land mammal, lovable animal"
+      "pos": "n",
+      "definition": "animal, especially land mammal, lovable animal"
     }
   ],
   "suli": [
     {
-      "mod": "big, tall, long, adult, important"
+      "pos": "mod",
+      "definition": "big, tall, long, adult, important"
     },
     {
-      "vt": "enlarge, lengthen"
+      "pos": "vt",
+      "definition": "enlarge, lengthen"
     },
     {
-      "n": "size"
+      "pos": "n",
+      "definition": "size"
     }
   ],
   "suno": [
     {
-      "n": "sun, light"
+      "pos": "n",
+      "definition": "sun, light"
     }
   ],
   "supa": [
     {
-      "n": "horizontal surface, e.g furniture, table, chair, pillow, floor"
+      "pos": "n",
+      "definition": "horizontal surface, e.g furniture, table, chair, pillow, floor"
     }
   ],
   "suwi": [
     {
-      "n": "candy, sweet food"
+      "pos": "n",
+      "definition": "candy, sweet food"
     },
     {
-      "mod": "sweet, cute"
+      "pos": "mod",
+      "definition": "sweet, cute"
     },
     {
-      "vt": "sweeten"
+      "pos": "vt",
+      "definition": "sweeten"
     },
     {
       "extra": "[sweet]"
@@ -902,18 +1109,22 @@
   ],
   "tan": [
     {
-      "prep": "from, by, because of, since"
+      "pos": "prep",
+      "definition": "from, by, because of, since"
     },
     {
-      "n": "origin, cause"
+      "pos": "n",
+      "definition": "origin, cause"
     }
   ],
   "taso": [
     {
-      "mod": "only, sole"
+      "pos": "mod",
+      "definition": "only, sole"
     },
     {
-      "conj": "but"
+      "pos": "conj",
+      "definition": "but"
     },
     {
       "extra": "[that's all]"
@@ -921,19 +1132,24 @@
   ],
   "tawa": [
     {
-      "prep": "to, in order to, towards, for, until"
+      "pos": "prep",
+      "definition": "to, in order to, towards, for, until"
     },
     {
-      "vi": "go to, walk, travel, move, leave"
+      "pos": "vi",
+      "definition": "go to, walk, travel, move, leave"
     },
     {
-      "n": "movement, transportation"
+      "pos": "n",
+      "definition": "movement, transportation"
     },
     {
-      "mod": "moving, mobile"
+      "pos": "mod",
+      "definition": "moving, mobile"
     },
     {
-      "vt": "move, displace"
+      "pos": "vt",
+      "definition": "move, displace"
     },
     {
       "extra": "[towards]"
@@ -941,51 +1157,64 @@
   ],
   "telo": [
     {
-      "n": "water, liquid, juice, sauce"
+      "pos": "n",
+      "definition": "water, liquid, juice, sauce"
     },
     {
-      "vt": "water, wash with water"
+      "pos": "vt",
+      "definition": "water, wash with water"
     }
   ],
   "tenpo": [
     {
-      "n": "time, period of time, moment, duration, situation"
+      "pos": "n",
+      "definition": "time, period of time, moment, duration, situation"
     }
   ],
   "toki": [
     {
-      "n": "language, talking, speech, communication"
+      "pos": "n",
+      "definition": "language, talking, speech, communication"
     },
     {
-      "mod": "talking, verbal"
+      "pos": "mod",
+      "definition": "talking, verbal"
     },
     {
-      "vt": "say"
+      "pos": "vt",
+      "definition": "say"
     },
     {
-      "vi": "talk, chat, communicate"
+      "pos": "vi",
+      "definition": "talk, chat, communicate"
     },
     {
-      "interj": "hello! hi!"
+      "pos": "interj",
+      "definition": "hello! hi!"
     }
   ],
   "tomo": [
     {
-      "n": "indoor constructed space, e.g. house, home, room, building"
+      "pos": "n",
+      "definition": "indoor constructed space, e.g. house, home, room, building"
     },
     {
-      "mod": "urban, domestic, household"
+      "pos": "mod",
+      "definition": "urban, domestic, household"
     }
   ],
   "tu": [
     {
-      "mod": "two"
+      "pos": "mod",
+      "definition": "two"
     },
     {
-      "n": "duo, pair"
+      "pos": "n",
+      "definition": "duo, pair"
     },
     {
-      "vt": "double, separate/cut/divide in two"
+      "pos": "vt",
+      "definition": "double, separate/cut/divide in two"
     },
     {
       "extra": "[two]"
@@ -993,40 +1222,50 @@
   ],
   "unpa": [
     {
-      "n": "sex, sexuality"
+      "pos": "n",
+      "definition": "sex, sexuality"
     },
     {
-      "mod": "erotic, sexual"
+      "pos": "mod",
+      "definition": "erotic, sexual"
     },
     {
-      "vt": "have sex with, sleep with, fuck"
+      "pos": "vt",
+      "definition": "have sex with, sleep with, fuck"
     },
     {
-      "vi": "have sex"
+      "pos": "vi",
+      "definition": "have sex"
     }
   ],
   "uta": [
     {
-      "n": "mouth"
+      "pos": "n",
+      "definition": "mouth"
     },
     {
-      "mod": "oral"
+      "pos": "mod",
+      "definition": "oral"
     }
   ],
   "utala": [
     {
-      "n": "conflict, disharmony, competition, fight, war, battle, attack, blow, argument, physical or verbal violence"
+      "pos": "n",
+      "definition": "conflict, disharmony, competition, fight, war, battle, attack, blow, argument, physical or verbal violence"
     },
     {
-      "vt": "hit, strike, attack, compete against"
+      "pos": "vt",
+      "definition": "hit, strike, attack, compete against"
     }
   ],
   "walo": [
     {
-      "mod": "white, light (colour)"
+      "pos": "mod",
+      "definition": "white, light (colour)"
     },
     {
-      "n": "white thing or part, whiteness, lightness"
+      "pos": "n",
+      "definition": "white thing or part, whiteness, lightness"
     },
     {
       "extra": "[sounds like wall, which is often white]"
@@ -1034,13 +1273,16 @@
   ],
   "wan": [
     {
-      "mod": "one, a"
+      "pos": "mod",
+      "definition": "one, a"
     },
     {
-      "n": "unit, element, particle, part, piece"
+      "pos": "n",
+      "definition": "unit, element, particle, part, piece"
     },
     {
-      "vt": "unite, make one"
+      "pos": "vt",
+      "definition": "unite, make one"
     },
     {
       "extra": "[one]"
@@ -1048,40 +1290,50 @@
   ],
   "waso": [
     {
-      "n": "bird, winged animal"
+      "pos": "n",
+      "definition": "bird, winged animal"
     }
   ],
   "wawa": [
     {
-      "n": "energy, strength, power"
+      "pos": "n",
+      "definition": "energy, strength, power"
     },
     {
-      "mod": "energetic, strong, fierce, intense, sure, confident"
+      "pos": "mod",
+      "definition": "energetic, strong, fierce, intense, sure, confident"
     },
     {
-      "vt": "strengthen, energize, empower"
+      "pos": "vt",
+      "definition": "strengthen, energize, empower"
     }
   ],
   "weka": [
     {
-      "mod": "away, absent, missing"
+      "pos": "mod",
+      "definition": "away, absent, missing"
     },
     {
-      "n": "absence"
+      "pos": "n",
+      "definition": "absence"
     },
     {
-      "vt": "throw away, remove, get rid of"
+      "pos": "vt",
+      "definition": "throw away, remove, get rid of"
     }
   ],
   "wile": [
     {
-      "vt": "to want, need, wish, have to, must, will, should"
+      "pos": "vt",
+      "definition": "to want, need, wish, have to, must, will, should"
     },
     {
-      "n": "desire, need, will"
+      "pos": "n",
+      "definition": "desire, need, will"
     },
     {
-      "mod": "necessary"
+      "pos": "mod",
+      "definition": "necessary"
     }
   ]
 }

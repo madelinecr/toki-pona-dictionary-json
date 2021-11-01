@@ -60,7 +60,8 @@ definitions_dict.each do |word,definitions|
         pos_dictionary.each do |pos,pos_definition|
             if definition.start_with?(pos) and value_matched == false
                 trimmed_definition = definition.sub(/^#{pos}\s/, '')
-                definitions_array.append({ pos.to_sym => trimmed_definition })
+                definitions_array.append({ pos: pos.to_sym, definition: trimmed_definition })
+                #definitions_array.append({ pos.to_sym => trimmed_definition })
                 value_matched = true
             end
         end

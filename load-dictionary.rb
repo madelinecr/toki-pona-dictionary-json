@@ -50,7 +50,7 @@ end
 
 
 # BUILDING ENTIRE DICTIONARY INTO JSON-ABLE STRUCTURE
-dictionary = {}
+dictionary = []
 
 definitions_dict.each do |word,definitions|
     definitions_array = []
@@ -70,7 +70,7 @@ definitions_dict.each do |word,definitions|
             definitions_array.append({ extra: definition })
         end
     end
-    dictionary[word.to_sym] = definitions_array
+    dictionary.append({ word: word.to_sym, definitions: definitions_array })
 end
 
 dict_output = File.open("./toki-dictionary.json", "wb")

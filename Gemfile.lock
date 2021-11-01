@@ -1,0 +1,15 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    pp (0.2.1)
+      prettyprint
+    prettyprint (0.1.1)
+
+PLATFORMS
+  arm64-darwin-21
+
+DEPENDENCIES
+  pp
+
+BUNDLED WITH
+   2.2.3

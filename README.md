@@ -8,6 +8,6 @@ JSON files, `toki-dictionary.json` and `toki-partsofspeech.json`.
 
 There is no need to run this script unless you're changing the values in the 
 dictionary or parts of speech text files. The generated JSON files have been
-added to version control and are available in the root of this project. Simply
-download them from Github through the web UI if you are an application developer
-and want to use them in your own projects.
+added to version control and are available in the root of this project. If you
+are an application developer or want to use the JSON dictionary for a project, 
+simply download them from Github on this page.

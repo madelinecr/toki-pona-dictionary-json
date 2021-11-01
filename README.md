@@ -1,7 +1,7 @@
 # Toki Pona JSON Dictionary
 
-This is a conversion of the Toki Pona Official Dictionary to JSON. Due to the
-formatting of the Toki Pona PDF, it was first hand-converted to two .txt files.
+This is a conversion of the Toki Pona Dictionary to JSON. Due to the formatting 
+of the Toki Pona PDF, it was first hand-converted to two .txt files.
 
 The script `load_dictionary.rb` will parse these two text files and generate two
 JSON files, `toki-dictionary.json` and `toki-partsofspeech.json`.

@@ -44,7 +44,20 @@
     ]
   },
   {
-    "word": "ale, ali",
+    "word": "ale",
+    "definitions": [
+      {
+        "pos": "n",
+        "definition": "everything, anything, life, the universe"
+      },
+      {
+        "pos": "mod",
+        "definition": "all, every, complete, whole"
+      }
+    ]
+  },
+  {
+    "word": "ali",
     "definitions": [
       {
         "pos": "n",
@@ -184,7 +197,8 @@
         "definition": "to be bad, to suck"
       },
       {
-        "extra": "[sounds like icky]"
+        "pos": "extra",
+        "definition": "[sounds like icky]"
       }
     ]
   },
@@ -209,7 +223,8 @@
         "definition": "inner, internal"
       },
       {
-        "extra": "[inside]"
+        "pos": "extra",
+        "definition": "[inside]"
       }
     ]
   },
@@ -233,7 +248,8 @@
         "definition": "ew! yuck!"
       },
       {
-        "extra": "[yucky]"
+        "pos": "extra",
+        "definition": "[yucky]"
       }
     ]
   },
@@ -262,7 +278,8 @@
         "definition": "yellow, light green"
       },
       {
-        "extra": "[yellow]"
+        "pos": "extra",
+        "definition": "[yellow]"
       }
     ]
   },
@@ -329,7 +346,8 @@
         "definition": "bring about, summon"
       },
       {
-        "extra": "[come up]"
+        "pos": "extra",
+        "definition": "[come up]"
       }
     ]
   },
@@ -398,7 +416,8 @@
     "word": "kipisi",
     "definitions": [
       {
-        "extra": "(yet undefined entry in the official word list)"
+        "pos": "extra",
+        "definition": "(yet undefined entry in the official word list)"
       }
     ]
   },
@@ -641,7 +660,8 @@
         "definition": "visual(ly)"
       },
       {
-        "extra": "[looking]"
+        "pos": "extra",
+        "definition": "[looking]"
       }
     ]
   },
@@ -653,7 +673,8 @@
         "definition": "hole, orifice, window, door"
       },
       {
-        "extra": "[sounds like loop]"
+        "pos": "extra",
+        "definition": "[sounds like loop]"
       }
     ]
   },
@@ -678,7 +699,8 @@
         "definition": "of the parent, parental, maternal, fatherly"
       },
       {
-        "extra": "[sounds like momma]"
+        "pos": "extra",
+        "definition": "[sounds like momma]"
       }
     ]
   },
@@ -690,7 +712,8 @@
         "definition": "money, material wealth, currency, dollar, capital"
       },
       {
-        "extra": "[money]"
+        "pos": "extra",
+        "definition": "[money]"
       }
     ]
   },
@@ -706,7 +729,8 @@
         "definition": "female, feminine, womanly"
       },
       {
-        "extra": "[Mary]"
+        "pos": "extra",
+        "definition": "[Mary]"
       }
     ]
   },
@@ -722,7 +746,8 @@
         "definition": "my, our"
       },
       {
-        "extra": "[me]"
+        "pos": "extra",
+        "definition": "[me]"
       }
     ]
   },
@@ -794,7 +819,8 @@
         "definition": "woof! meow! moo! etc. (cute animal noise)"
       },
       {
-        "extra": "[moo]"
+        "pos": "extra",
+        "definition": "[moo]"
       }
     ]
   },
@@ -810,7 +836,8 @@
         "definition": "lunar"
       },
       {
-        "extra": "[moon]"
+        "pos": "extra",
+        "definition": "[moon]"
       }
     ]
   },
@@ -851,7 +878,8 @@
         "definition": "make many or much"
       },
       {
-        "extra": "[multi]"
+        "pos": "extra",
+        "definition": "[multi]"
       }
     ]
   },
@@ -880,7 +908,8 @@
         "definition": "-th (ordinal numbers)"
       },
       {
-        "extra": "[number]"
+        "pos": "extra",
+        "definition": "[number]"
       }
     ]
   },
@@ -963,7 +992,8 @@
         "definition": "eye"
       },
       {
-        "extra": "[similar to oculist]"
+        "pos": "extra",
+        "definition": "[similar to oculist]"
       }
     ]
   },
@@ -1104,7 +1134,8 @@
         "definition": "feel, think, sense, touch"
       },
       {
-        "extra": "[feeling]"
+        "pos": "extra",
+        "definition": "[feeling]"
       }
     ]
   },
@@ -1176,7 +1207,8 @@
         "definition": "container, box, bowl, cup, glass"
       },
       {
-        "extra": "[box]"
+        "pos": "extra",
+        "definition": "[box]"
       }
     ]
   },
@@ -1200,7 +1232,8 @@
         "definition": "improve, fix, repair, make good"
       },
       {
-        "extra": "[bonam]"
+        "pos": "extra",
+        "definition": "[bonam]"
       }
     ]
   },
@@ -1208,7 +1241,8 @@
     "word": "pu",
     "definitions": [
       {
-        "extra": "(yet undefined entry in the official word list)"
+        "pos": "extra",
+        "definition": "(yet undefined entry in the official word list)"
       }
     ]
   },
@@ -1424,7 +1458,8 @@
         "definition": "sweeten"
       },
       {
-        "extra": "[sweet]"
+        "pos": "extra",
+        "definition": "[sweet]"
       }
     ]
   },
@@ -1453,7 +1488,8 @@
         "definition": "but"
       },
       {
-        "extra": "[that's all]"
+        "pos": "extra",
+        "definition": "[that's all]"
       }
     ]
   },
@@ -1481,7 +1517,8 @@
         "definition": "move, displace"
       },
       {
-        "extra": "[towards]"
+        "pos": "extra",
+        "definition": "[towards]"
       }
     ]
   },
@@ -1561,7 +1598,8 @@
         "definition": "double, separate/cut/divide in two"
       },
       {
-        "extra": "[two]"
+        "pos": "extra",
+        "definition": "[two]"
       }
     ]
   },
@@ -1624,7 +1662,8 @@
         "definition": "white thing or part, whiteness, lightness"
       },
       {
-        "extra": "[sounds like wall, which is often white]"
+        "pos": "extra",
+        "definition": "[sounds like wall, which is often white]"
       }
     ]
   },
@@ -1644,7 +1683,8 @@
         "definition": "unite, make one"
       },
       {
-        "extra": "[one]"
+        "pos": "extra",
+        "definition": "[one]"
       }
     ]
   },

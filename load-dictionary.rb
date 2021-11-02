@@ -67,7 +67,7 @@ definitions_dict.each do |word,definitions|
         end
         pos_dictionary_checked = true
         if value_matched == false and pos_dictionary_checked == true
-            definitions_array.append({ extra: definition })
+            definitions_array.append({ pos: :extra, definition: definition })
         end
     end
     dictionary.append({ word: word.to_sym, definitions: definitions_array })

@@ -8,7 +8,10 @@ ala
     interj no!
 alasa
     vt gather, hunt
-ale, ali
+ale
+    n everything, anything, life, the universe
+    mod all, every, complete, whole
+ali
     n everything, anything, life, the universe
     mod all, every, complete, whole
 anpa

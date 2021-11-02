@@ -1,13 +1,46 @@
-{
-  "n": "head noun",
-  "mod": "modifier (adjective or adverb)",
-  "sep": "separator",
-  "vt": "verb, transitive (normally used with e)",
-  "vi": "verb, intransitive",
-  "interj": "interjection",
-  "prep": "quasi-preposition",
-  "conj": "conjunction",
-  "kama": "compound verb preceded by kama",
-  "cont": "context word used before la",
-  "oth": "special, other word"
-}
+[
+  {
+    "pos": "n",
+    "definition": "head noun"
+  },
+  {
+    "pos": "mod",
+    "definition": "modifier (adjective or adverb)"
+  },
+  {
+    "pos": "sep",
+    "definition": "separator"
+  },
+  {
+    "pos": "vt",
+    "definition": "verb, transitive (normally used with e)"
+  },
+  {
+    "pos": "vi",
+    "definition": "verb, intransitive"
+  },
+  {
+    "pos": "interj",
+    "definition": "interjection"
+  },
+  {
+    "pos": "prep",
+    "definition": "quasi-preposition"
+  },
+  {
+    "pos": "conj",
+    "definition": "conjunction"
+  },
+  {
+    "pos": "kama",
+    "definition": "compound verb preceded by kama"
+  },
+  {
+    "pos": "cont",
+    "definition": "context word used before la"
+  },
+  {
+    "pos": "oth",
+    "definition": "special, other word"
+  }
+]

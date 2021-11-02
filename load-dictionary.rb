@@ -7,6 +7,7 @@ require 'pp'
 parts_of_speech_file = File.open("./tokipona-partsofspeech.txt")
 parts_of_speech_contents = parts_of_speech_file.read.split("\n")
 
+pos = []
 pos_dictionary = {}
 
 part = nil
@@ -17,6 +18,7 @@ parts_of_speech_contents.each do |line|
     elsif line =~ /^\s+/
         definition = line.strip
         pos_dictionary[part] = definition
+        pos.append({ pos: part, definition: definition })
     else
         puts "ERROR READING PARTS OF SPEECH FILE"
         exit
@@ -77,4 +79,4 @@ dict_output = File.open("./toki-dictionary.json", "wb")
 dict_output.write(JSON.pretty_generate(dictionary))
 
 pos_output = File.open("./toki-partsofspeech.json", "wb")
-pos_output.write(JSON.pretty_generate(pos_dictionary))
+pos_output.write(JSON.pretty_generate(pos))

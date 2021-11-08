@@ -4,7 +4,7 @@ require 'json'
 require 'pp'
 
 # PARTS OF SPEECH
-parts_of_speech_file = File.open("./tokipona-partsofspeech.txt")
+parts_of_speech_file = File.open("./input/tokipona-partsofspeech.txt")
 parts_of_speech_contents = parts_of_speech_file.read.split("\n")
 
 pos = []
@@ -27,7 +27,7 @@ end
 
 
 # DEFINITIONS
-dict_file = File.open("./tokipona-formatted.txt")
+dict_file = File.open("./input/tokipona-formatted.txt")
 dict_file_contents = dict_file.read.split("\n")
 
 definitions_dict = {}
@@ -75,8 +75,39 @@ definitions_dict.each do |word,definitions|
     dictionary.append({ word: word.to_sym, definitions: definitions_array })
 end
 
-dict_output = File.open("./toki-dictionary.json", "wb")
+# BUILDING LESSONS
+lessons_file = File.open("./input/tokipona-lessons.txt")
+lessons_file_contents = lessons_file.read.split("\n")
+
+lessons = []
+lessons_dictionary = {}
+
+lesson_title = nil
+
+lessons_file_contents.each do |line|
+    if line =~ /^\w+/
+        lesson_title = line
+        lessons_dictionary[lesson_title] = []
+    elsif line =~ /^\s+/
+        word = line.strip
+        lessons_dictionary[lesson_title].append(word: word)
+    else
+        print line
+        puts "ERROR READING LESSONS FILE"
+        exit
+    end
+end
+
+lessons_dictionary.each do |lesson,words|
+    lessons.append({lesson: lesson, words: words})
+end
+
+
+dict_output = File.open("./output/toki-dictionary.json", "wb")
 dict_output.write(JSON.pretty_generate(dictionary))
 
-pos_output = File.open("./toki-partsofspeech.json", "wb")
+pos_output = File.open("./output/toki-partsofspeech.json", "wb")
 pos_output.write(JSON.pretty_generate(pos))
+
+lessons_output = File.open("./output/toki-lessons.json", "wb")
+lessons_output.write(JSON.pretty_generate(lessons))

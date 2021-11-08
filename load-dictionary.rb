@@ -72,8 +72,9 @@ definitions_dict.each do |word,definitions|
             definitions_array.append({ pos: :extra, definition: definition })
         end
     end
-    dictionary.append({ word: word.to_sym, definitions: definitions_array })
+    dictionary.append({ word: word, definitions: definitions_array })
 end
+
 
 # BUILDING LESSONS
 lessons_file = File.open("./input/tokipona-lessons.txt")
@@ -90,7 +91,12 @@ lessons_file_contents.each do |line|
         lessons_dictionary[lesson_title] = []
     elsif line =~ /^\s+/
         word = line.strip
-        lessons_dictionary[lesson_title].append(word: word)
+        dictionary.each do |dict_word|
+            if dict_word[:word] == word
+                lessons_dictionary[lesson_title].append({word: dict_word[:word], definitions: dict_word[:definitions]})
+            end
+        end
+        #lessons_dictionary[lesson_title].append(word: word)
     else
         print line
         puts "ERROR READING LESSONS FILE"
@@ -103,6 +109,7 @@ lessons_dictionary.each do |lesson,words|
 end
 
 
+# FILE OUTPUT
 dict_output = File.open("./output/toki-dictionary.json", "wb")
 dict_output.write(JSON.pretty_generate(dictionary))
 

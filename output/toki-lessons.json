@@ -3,28 +3,100 @@
     "lesson": "Nouns",
     "words": [
       {
-        "word": "ijo"
+        "word": "ijo",
+        "definitions": [
+          {
+            "pos": "n",
+            "definition": "thing, something, stuff, anything, object"
+          },
+          {
+            "pos": "mod",
+            "definition": "of something"
+          },
+          {
+            "pos": "vt",
+            "definition": "objectify"
+          }
+        ]
       },
       {
-        "word": "jan"
+        "word": "jan",
+        "definitions": [
+          {
+            "pos": "n",
+            "definition": "person, people, human, being, somebody, anybody"
+          },
+          {
+            "pos": "mod",
+            "definition": "human, somebody's, personal, of people"
+          },
+          {
+            "pos": "vt",
+            "definition": "personify, humanize, personalize"
+          }
+        ]
       },
       {
-        "word": "kili"
+        "word": "kili",
+        "definitions": [
+          {
+            "pos": "n",
+            "definition": "fruit, pulpy vegetable, mushroom"
+          }
+        ]
       },
       {
-        "word": "lipu"
+        "word": "lipu",
+        "definitions": [
+          {
+            "pos": "n",
+            "definition": "flat and bendable thing, e.g. paper, card, ticket"
+          }
+        ]
       },
       {
-        "word": "meli"
+        "word": "meli",
+        "definitions": [
+          {
+            "pos": "n",
+            "definition": "woman, female, girl, wife, girlfriend"
+          },
+          {
+            "pos": "mod",
+            "definition": "female, feminine, womanly"
+          },
+          {
+            "pos": "extra",
+            "definition": "[Mary]"
+          }
+        ]
       },
       {
-        "word": "ni"
+        "word": "ni",
+        "definitions": [
+          {
+            "pos": "mod",
+            "definition": "this, that"
+          }
+        ]
       },
       {
-        "word": "soweli"
+        "word": "soweli",
+        "definitions": [
+          {
+            "pos": "n",
+            "definition": "animal, especially land mammal, lovable animal"
+          }
+        ]
       },
       {
-        "word": "li"
+        "word": "li",
+        "definitions": [
+          {
+            "pos": "sep",
+            "definition": "\\\"(between any subject except mi and sina and its verb\": null, \" also used to introduce a new verb for the same subject)\\\""
+          }
+        ]
       }
     ]
   },
@@ -32,19 +104,85 @@
     "lesson": "Nouns and Adjectives",
     "words": [
       {
-        "word": "telo"
+        "word": "telo",
+        "definitions": [
+          {
+            "pos": "n",
+            "definition": "water, liquid, juice, sauce"
+          },
+          {
+            "pos": "vt",
+            "definition": "water, wash with water"
+          }
+        ]
       },
       {
-        "word": "tomo"
+        "word": "tomo",
+        "definitions": [
+          {
+            "pos": "n",
+            "definition": "indoor constructed space, e.g. house, home, room, building"
+          },
+          {
+            "pos": "mod",
+            "definition": "urban, domestic, household"
+          }
+        ]
       },
       {
-        "word": "lili"
+        "word": "lili",
+        "definitions": [
+          {
+            "pos": "mod",
+            "definition": "small, little, young, a bit, short, few, less"
+          },
+          {
+            "pos": "vt",
+            "definition": "reduce, shorten, shrink, lessen"
+          }
+        ]
       },
       {
-        "word": "pona"
+        "word": "pona",
+        "definitions": [
+          {
+            "pos": "n",
+            "definition": "good, simplicity, positivity"
+          },
+          {
+            "pos": "mod",
+            "definition": "good, simple, positive, nice, correct, right"
+          },
+          {
+            "pos": "interj",
+            "definition": "great! good! thanks! OK! cool! yay!"
+          },
+          {
+            "pos": "vt",
+            "definition": "improve, fix, repair, make good"
+          },
+          {
+            "pos": "extra",
+            "definition": "[bonam]"
+          }
+        ]
       },
       {
-        "word": "suli"
+        "word": "suli",
+        "definitions": [
+          {
+            "pos": "mod",
+            "definition": "big, tall, long, adult, important"
+          },
+          {
+            "pos": "vt",
+            "definition": "enlarge, lengthen"
+          },
+          {
+            "pos": "n",
+            "definition": "size"
+          }
+        ]
       }
     ]
   },
@@ -52,22 +190,90 @@
     "lesson": "You and I",
     "words": [
       {
-        "word": "mi"
+        "word": "mi",
+        "definitions": [
+          {
+            "pos": "n",
+            "definition": "I, we"
+          },
+          {
+            "pos": "mod",
+            "definition": "my, our"
+          },
+          {
+            "pos": "extra",
+            "definition": "[me]"
+          }
+        ]
       },
       {
-        "word": "mije"
+        "word": "mije",
+        "definitions": [
+          {
+            "pos": "n",
+            "definition": "man, male, boy, husband, boyfriend"
+          },
+          {
+            "pos": "mod",
+            "definition": "male, masculine, manly"
+          }
+        ]
       },
       {
-        "word": "sina"
+        "word": "sina",
+        "definitions": [
+          {
+            "pos": "n",
+            "definition": "you"
+          },
+          {
+            "pos": "mod",
+            "definition": "your"
+          }
+        ]
       },
       {
-        "word": "kulupu"
+        "word": "kulupu",
+        "definitions": [
+          {
+            "pos": "n",
+            "definition": "group, community, society, company, people"
+          },
+          {
+            "pos": "mod",
+            "definition": "communal, shared, public, of the society"
+          }
+        ]
       },
       {
-        "word": "sin"
+        "word": "sin",
+        "definitions": [
+          {
+            "pos": "mod",
+            "definition": "new, fresh, another, more"
+          },
+          {
+            "pos": "vt",
+            "definition": "renew, renovate, freshen"
+          }
+        ]
       },
       {
-        "word": "wawa"
+        "word": "wawa",
+        "definitions": [
+          {
+            "pos": "n",
+            "definition": "energy, strength, power"
+          },
+          {
+            "pos": "mod",
+            "definition": "energetic, strong, fierce, intense, sure, confident"
+          },
+          {
+            "pos": "vt",
+            "definition": "strengthen, energize, empower"
+          }
+        ]
       }
     ]
   },
@@ -75,25 +281,123 @@
     "lesson": "Verbs",
     "words": [
       {
-        "word": "jo"
+        "word": "jo",
+        "definitions": [
+          {
+            "pos": "vt",
+            "definition": "have, contain"
+          },
+          {
+            "pos": "n",
+            "definition": "having"
+          },
+          {
+            "pos": "kama",
+            "definition": "receive, get, take, obtain"
+          }
+        ]
       },
       {
-        "word": "kute"
+        "word": "kute",
+        "definitions": [
+          {
+            "pos": "vt",
+            "definition": "listen, hear"
+          },
+          {
+            "pos": "mod",
+            "definition": "auditory, hearing"
+          }
+        ]
       },
       {
-        "word": "moku"
+        "word": "moku",
+        "definitions": [
+          {
+            "pos": "n",
+            "definition": "food, meal"
+          },
+          {
+            "pos": "vt",
+            "definition": "eat, drink, swallow, ingest, consume"
+          }
+        ]
       },
       {
-        "word": "pali"
+        "word": "pali",
+        "definitions": [
+          {
+            "pos": "n",
+            "definition": "activity, work, deed, project"
+          },
+          {
+            "pos": "mod",
+            "definition": "active, work-related, operating, working"
+          },
+          {
+            "pos": "vt",
+            "definition": "do, make, build, create"
+          },
+          {
+            "pos": "vi",
+            "definition": "act, work, function"
+          }
+        ]
       },
       {
-        "word": "sona"
+        "word": "sona",
+        "definitions": [
+          {
+            "pos": "n",
+            "definition": "knowledge, wisdom, intelligence, understanding"
+          },
+          {
+            "pos": "vt",
+            "definition": "know, understand, know how to"
+          },
+          {
+            "pos": "vi",
+            "definition": "know, understand"
+          },
+          {
+            "pos": "kama",
+            "definition": "learn, study"
+          }
+        ]
       },
       {
-        "word": "toki"
+        "word": "toki",
+        "definitions": [
+          {
+            "pos": "n",
+            "definition": "language, talking, speech, communication"
+          },
+          {
+            "pos": "mod",
+            "definition": "talking, verbal"
+          },
+          {
+            "pos": "vt",
+            "definition": "say"
+          },
+          {
+            "pos": "vi",
+            "definition": "talk, chat, communicate"
+          },
+          {
+            "pos": "interj",
+            "definition": "hello! hi!"
+          }
+        ]
       },
       {
-        "word": "e"
+        "word": "e",
+        "definitions": [
+          {
+            "pos": "sep",
+            "definition": "(introduces a direct object)"
+          }
+        ]
       }
     ]
   },
@@ -101,25 +405,131 @@
     "lesson": "More Adjectives",
     "words": [
       {
-        "word": "ala"
+        "word": "ala",
+        "definitions": [
+          {
+            "pos": "mod",
+            "definition": "no, not, none, un-"
+          },
+          {
+            "pos": "n",
+            "definition": "nothing, negation, zero"
+          },
+          {
+            "pos": "interj",
+            "definition": "no!"
+          }
+        ]
       },
       {
-        "word": "ike"
+        "word": "ike",
+        "definitions": [
+          {
+            "pos": "mod",
+            "definition": "bad, negative, wrong, evil, overly complex, (figuratively) unhealthy"
+          },
+          {
+            "pos": "interj",
+            "definition": "oh dear! woe! alas!"
+          },
+          {
+            "pos": "n",
+            "definition": "negativity, badness, evil"
+          },
+          {
+            "pos": "vt",
+            "definition": "to make bad, to worsen, to have a negative effect upon"
+          },
+          {
+            "pos": "vi",
+            "definition": "to be bad, to suck"
+          },
+          {
+            "pos": "extra",
+            "definition": "[sounds like icky]"
+          }
+        ]
       },
       {
-        "word": "mute"
+        "word": "mute",
+        "definitions": [
+          {
+            "pos": "mod",
+            "definition": "many, very, much, several, a lot, abundant, numerous, more"
+          },
+          {
+            "pos": "n",
+            "definition": "amount, quantity"
+          },
+          {
+            "pos": "vt",
+            "definition": "make many or much"
+          },
+          {
+            "pos": "extra",
+            "definition": "[multi]"
+          }
+        ]
       },
       {
-        "word": "pu"
+        "word": "pu",
+        "definitions": [
+          {
+            "pos": "extra",
+            "definition": "(yet undefined entry in the official word list)"
+          }
+        ]
       },
       {
-        "word": "sewi"
+        "word": "sewi",
+        "definitions": [
+          {
+            "pos": "n",
+            "definition": "high, up, above, top, over, on"
+          },
+          {
+            "pos": "mod",
+            "definition": "superior, elevated, religious, formal"
+          }
+        ]
       },
       {
-        "word": "wan"
+        "word": "wan",
+        "definitions": [
+          {
+            "pos": "mod",
+            "definition": "one, a"
+          },
+          {
+            "pos": "n",
+            "definition": "unit, element, particle, part, piece"
+          },
+          {
+            "pos": "vt",
+            "definition": "unite, make one"
+          },
+          {
+            "pos": "extra",
+            "definition": "[one]"
+          }
+        ]
       },
       {
-        "word": "mama"
+        "word": "mama",
+        "definitions": [
+          {
+            "pos": "n",
+            "definition": "parent, mother, father"
+          },
+          {
+            "pos": "mod",
+            "definition": "of the parent, parental, maternal, fatherly"
+          },
+          {
+            "pos": "extra",
+            "definition": "[sounds like momma]"
+          }
+        ]
       }
     ]
   },
@@ -127,19 +537,53 @@
     "lesson": "Questions and Answers",
     "words": [
       {
-        "word": "ilo"
+        "word": "ilo",
+        "definitions": [
+          {
+            "pos": "n",
+            "definition": "tool, device, machine, thing used for a specific purpose"
+          }
+        ]
       },
       {
-        "word": "kala"
+        "word": "kala",
+        "definitions": [
+          {
+            "pos": "n",
+            "definition": "fish, sea creature"
+          }
+        ]
       },
       {
-        "word": "ona"
+        "word": "ona",
+        "definitions": [
+          {
+            "pos": "n",
+            "definition": "she, he, it, they"
+          },
+          {
+            "pos": "mod",
+            "definition": "her, his, its, their"
+          }
+        ]
       },
       {
-        "word": "anu"
+        "word": "anu",
+        "definitions": [
+          {
+            "pos": "conj",
+            "definition": "or"
+          }
+        ]
       },
       {
-        "word": "seme"
+        "word": "seme",
+        "definitions": [
+          {
+            "pos": "oth",
+            "definition": "what, which, wh- (question word)"
+          }
+        ]
       }
     ]
   },
@@ -147,19 +591,85 @@
     "lesson": "Prepositions",
     "words": [
       {
-        "word": "pana"
+        "word": "pana",
+        "definitions": [
+          {
+            "pos": "vt",
+            "definition": "give, put, send, place, release, emit, cause"
+          },
+          {
+            "pos": "n",
+            "definition": "giving, transfer, exchange"
+          }
+        ]
       },
       {
-        "word": "tawa"
+        "word": "tawa",
+        "definitions": [
+          {
+            "pos": "prep",
+            "definition": "to, in order to, towards, for, until"
+          },
+          {
+            "pos": "vi",
+            "definition": "go to, walk, travel, move, leave"
+          },
+          {
+            "pos": "n",
+            "definition": "movement, transportation"
+          },
+          {
+            "pos": "mod",
+            "definition": "moving, mobile"
+          },
+          {
+            "pos": "vt",
+            "definition": "move, displace"
+          },
+          {
+            "pos": "extra",
+            "definition": "[towards]"
+          }
+        ]
       },
       {
-        "word": "lon"
+        "word": "lon",
+        "definitions": [
+          {
+            "pos": "prep",
+            "definition": "be (located) in/at/on"
+          },
+          {
+            "pos": "vi",
+            "definition": "be there, be present, be real/true, exist, be awake"
+          }
+        ]
       },
       {
-        "word": "kepeken"
+        "word": "kepeken",
+        "definitions": [
+          {
+            "pos": "vt",
+            "definition": "use"
+          },
+          {
+            "pos": "prep",
+            "definition": "with"
+          }
+        ]
       },
       {
-        "word": "tan"
+        "word": "tan",
+        "definitions": [
+          {
+            "pos": "prep",
+            "definition": "from, by, because of, since"
+          },
+          {
+            "pos": "n",
+            "definition": "origin, cause"
+          }
+        ]
       }
     ]
   },
@@ -167,19 +677,53 @@
     "lesson": "Proper Names",
     "words": [
       {
-        "word": "ma"
+        "word": "ma",
+        "definitions": [
+          {
+            "pos": "n",
+            "definition": "land, earth, country, (outdoor) area"
+          }
+        ]
       },
       {
-        "word": "nasin"
+        "word": "nasin",
+        "definitions": [
+          {
+            "pos": "n",
+            "definition": "way, manner, custom, road, path, doctrine, system, method"
+          }
+        ]
       },
       {
-        "word": "nena"
+        "word": "nena",
+        "definitions": [
+          {
+            "pos": "n",
+            "definition": "bump, nose, hill, mountain, button"
+          }
+        ]
       },
       {
-        "word": "nimi"
+        "word": "nimi",
+        "definitions": [
+          {
+            "pos": "n",
+            "definition": "word, name"
+          }
+        ]
       },
       {
-        "word": "utala"
+        "word": "utala",
+        "definitions": [
+          {
+            "pos": "n",
+            "definition": "conflict, disharmony, competition, fight, war, battle, attack, blow, argument, physical or verbal violence"
+          },
+          {
+            "pos": "vt",
+            "definition": "hit, strike, attack, compete against"
+          }
+        ]
       }
     ]
   },
@@ -187,16 +731,60 @@
     "lesson": "Greetings and Feelings",
     "words": [
       {
-        "word": "a"
+        "word": "a",
+        "definitions": [
+          {
+            "pos": "interj",
+            "definition": "ah, ha, uh, oh, ooh, aw, well (emotion word)"
+          }
+        ]
       },
       {
-        "word": "mu"
+        "word": "mu",
+        "definitions": [
+          {
+            "pos": "interj",
+            "definition": "woof! meow! moo! etc. (cute animal noise)"
+          },
+          {
+            "pos": "extra",
+            "definition": "[moo]"
+          }
+        ]
       },
       {
-        "word": "o"
+        "word": "o",
+        "definitions": [
+          {
+            "pos": "sep",
+            "definition": "O (vocative or imperative)"
+          },
+          {
+            "pos": "interj",
+            "definition": "hey! (calling somebody's attention)"
+          }
+        ]
       },
       {
-        "word": "pilin"
+        "word": "pilin",
+        "definitions": [
+          {
+            "pos": "n",
+            "definition": "feelings, emotion, heart"
+          },
+          {
+            "pos": "vi",
+            "definition": "feel"
+          },
+          {
+            "pos": "vt",
+            "definition": "feel, think, sense, touch"
+          },
+          {
+            "pos": "extra",
+            "definition": "[feeling]"
+          }
+        ]
       }
     ]
   },
@@ -204,25 +792,95 @@
     "lesson": "Pi",
     "words": [
       {
-        "word": "kasi"
+        "word": "kasi",
+        "definitions": [
+          {
+            "pos": "n",
+            "definition": "plant, leaf, herb, tree, wood"
+          }
+        ]
       },
       {
-        "word": "sijelo"
+        "word": "sijelo",
+        "definitions": [
+          {
+            "pos": "n",
+            "definition": "body, physical state"
+          }
+        ]
       },
       {
-        "word": "suno"
+        "word": "suno",
+        "definitions": [
+          {
+            "pos": "n",
+            "definition": "sun, light"
+          }
+        ]
       },
       {
-        "word": "tenpo"
+        "word": "tenpo",
+        "definitions": [
+          {
+            "pos": "n",
+            "definition": "time, period of time, moment, duration, situation"
+          }
+        ]
       },
       {
-        "word": "awen"
+        "word": "awen",
+        "definitions": [
+          {
+            "pos": "vi",
+            "definition": "stay, wait, remain"
+          },
+          {
+            "pos": "vt",
+            "definition": "keep"
+          },
+          {
+            "pos": "mod",
+            "definition": "remaining, stationary, permanent, sedentary"
+          }
+        ]
       },
       {
-        "word": "tawa"
+        "word": "tawa",
+        "definitions": [
+          {
+            "pos": "prep",
+            "definition": "to, in order to, towards, for, until"
+          },
+          {
+            "pos": "vi",
+            "definition": "go to, walk, travel, move, leave"
+          },
+          {
+            "pos": "n",
+            "definition": "movement, transportation"
+          },
+          {
+            "pos": "mod",
+            "definition": "moving, mobile"
+          },
+          {
+            "pos": "vt",
+            "definition": "move, displace"
+          },
+          {
+            "pos": "extra",
+            "definition": "[towards]"
+          }
+        ]
       },
       {
-        "word": "pi"
+        "word": "pi",
+        "definitions": [
+          {
+            "pos": "sep",
+            "definition": "of, belonging to"
+          }
+        ]
       }
     ]
   }
